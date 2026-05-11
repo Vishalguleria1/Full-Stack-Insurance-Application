@@ -113,7 +113,9 @@ npm install
 3. Create a .env file inside server folder and add:
 
 PORT=5000
+
 MONGO_URI=YOUR_MONGODB_CONNECTION_STRING
+
 JWT_SECRET=YOUR_SECRET_KEY
 
 4. Start backend server:
